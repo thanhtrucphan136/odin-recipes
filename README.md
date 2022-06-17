@@ -9,3 +9,5 @@ Apply basic HTML knowledge:
 Recipes's credits from allrecipes.com:
 Korean Bulgogi Bowl: https://www.allrecipes.com/recipe/268055/korean-bulgogi-bowl/
 Authentic Pad Thai: https://www.allrecipes.com/recipe/222350/authentic-pad-thai/
+
+Link to project: https://thanhtrucphan136.github.io/odin-recipes/index.html
